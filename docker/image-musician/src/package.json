@@ -1,0 +1,13 @@
+{
+  "name": "image-musician",
+  "version": "1.0.0",
+  "main": "musician.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "simon jobin",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^3.3.2"
+  }
+}
